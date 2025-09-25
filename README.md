@@ -1,4 +1,4 @@
-Press the staert recording button to play.
+Press the start recording button to play.
 Press the stop recording button to stop.
 Press the replay button to replay.
 
